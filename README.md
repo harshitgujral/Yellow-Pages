@@ -3,6 +3,9 @@ It is a Project on Data Structures using C++ graphics. This project is primarily
 
 C++ Graphics are not very presentable. This project is an attempt to learn Data-Structures with illustrations. 
 
+## Tools/Technologies Used
+C++ and C++ graphics library.
+
 ## Welcome Graphics
 ![alt text](https://raw.githubusercontent.com/newtein/Yellow-Pages/master/UI/i1.JPG)
 ![alt text](https://raw.githubusercontent.com/newtein/Yellow-Pages/master/UI/i2.JPG)
